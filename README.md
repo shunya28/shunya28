@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently researching music transcription and chord recognition
 - 🌱 I’m currently pursuing an M.E. degree and will pursue a Ph.D. in Engineering
 - 📫 You can reach me at s.ishikawa🐜uec.ac.jp
+- CV: [shunya28.github.io](https://shunya28.github.io/en.html)
